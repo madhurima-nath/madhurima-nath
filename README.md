@@ -1,7 +1,15 @@
-### Hi there 👋
+## Hello!
+
+I am a statistical physicist by training, working as a data science consultant in Data & Analytics at Slalom, LLC. I have a PhD from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
+
+
+
 
 <!--
+👋
 **mnathvt/mnathvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- Reach me: ✉ [madhurimanath21@gmail.com](mailto:madhurimanath21@gmail.com)  [@nmadhurima]()
 
 Here are some ideas to get you started:
 
