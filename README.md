@@ -2,7 +2,9 @@
 
 I am a statistical physicist by training, working as a data science consultant in Data & Analytics at Slalom, LLC. I have a PhD from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
 
-Reach me: &ensp;
+[Detailed Cirriculum Vitae]()
+
+&ensp;
 <a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png"> </a>
 &ensp;
 <a href="https://www.twitter.com/nmadhurima/"> 
