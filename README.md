@@ -1,12 +1,12 @@
 ## Hello!
 
-I am a statistical physicist by training, working as a data science consultant in Data & Analytics at Slalom, LLC. I have a PhD from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
+I am a statistical physicist by training, working as a data science consultant in Data & Analytics at Slalom, LLC. I graduated with a PhD from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
 
 
 ###  Interests
 Machine Learning algorithms, Data Engineering and Data Architecture pipelines,
 Computational models for interacting dynamical systems, 
-Scalable algorithm to calibrate large scale network models
+Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
 [Cirriculum Vitae](https://github.com/mnathvt/mnathvt/blob/main/academic_cv.pdf)
@@ -24,8 +24,7 @@ Scalable algorithm to calibrate large scale network models
 👋
 **mnathvt/mnathvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- Reach me: ✉ [madhurimanath21@gmail.com](mailto:madhurimanath21@gmail.com)  [@nmadhurima]()
-
+- Reach me: ✉ [madhurimanath21@gmail.com](mailto:madhurimanath21@gmail.com) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
