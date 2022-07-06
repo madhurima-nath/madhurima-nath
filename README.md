@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a statistical physicist by training, working as a data science consultant in Data & Analytics at Slalom, LLC. I graduated with a PhD from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
+I am working as a data science consultant in Data & Analytics practice at Slalom Consulting, LLC. I graduated with a PhD in statistical physics from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
 
 
 ###  Interests
