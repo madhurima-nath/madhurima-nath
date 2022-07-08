@@ -10,7 +10,7 @@ Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
 ### Upcoming Events
-- [Communities in Networks, Comnets @Netsci 2022:](https://hocinecherifi.wixsite.com/comnets2022) Communities in directed weighted food networks using Moore-Shannon network reliability
+[Communities in Networks, Comnets @Netsci 2022:](https://hocinecherifi.wixsite.com/comnets2022) Communities in directed weighted food networks using Moore-Shannon network reliability
 
 
 [Cirriculum Vitae](https://github.com/mnathvt/mnathvt/blob/main/cv_mnath.pdf)
