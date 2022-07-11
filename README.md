@@ -5,7 +5,7 @@ I am working as a data science consultant in Data & Analytics practice at Slalom
 
 ###  Interests
 Machine Learning algorithms, Data Engineering and Data Architecture pipelines,
-Computational models for interacting dynamical systems, 
+Computational models for interacting dynamical systems, Computational Epidemiology,
 Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
