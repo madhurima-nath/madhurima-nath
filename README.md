@@ -9,7 +9,7 @@ Computational models for interacting dynamical systems, Computational Epidemiolo
 Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
-### Upcoming Events
+### Recent Talk
 [Communities in Networks, Comnets @Netsci 2022:](https://hocinecherifi.wixsite.com/comnets2022) Communities in directed weighted food networks using Moore-Shannon network reliability, Jul 12, 2022.
 
 
@@ -19,13 +19,16 @@ Scalable algorithms to calibrate large scale network models, Experiment design.
 <a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png"> </a>
 <a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en">
 <img src="https://user-images.githubusercontent.com/31106009/176781660-387859e3-1380-4030-8255-8376953d7d6d.svg" width = "35" height = "32"> </a>
+
+
+<!--
+👋
 &nbsp;
 <a href="https://www.twitter.com/nmadhurima/"> 
 <img src = "https://user-images.githubusercontent.com/31106009/176773818-072c4f49-ce6f-4640-97d0-f35c9bc252e7.png" width = "35"> </a>
 
 
-<!--
-👋
+
 **mnathvt/mnathvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - Reach me: ✉ [madhurimanath21@gmail.com](mailto:madhurimanath21@gmail.com) 
