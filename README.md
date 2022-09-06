@@ -9,8 +9,8 @@ Computational models for interacting dynamical systems, Computational Epidemiolo
 Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
-### Recent Talk
-[Communities in Networks, Comnets @Netsci 2022:](https://hocinecherifi.wixsite.com/comnets2022) Communities in directed weighted food networks using Moore-Shannon network reliability, Jul 12, 2022.
+### Upcoming Talk
+[SIAM Workshop on Network Science (NS22) 2022:](http://dyn.phys.northwestern.edu/ns22.html) Perturbative methods for estimating relative contributions to network reliability [(abstract)](http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9851.pdf), Sep 13, 2022.
 
 
 [Cirriculum Vitae](https://github.com/mnathvt/mnathvt/blob/main/cv_mnath.pdf)
