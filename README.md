@@ -9,7 +9,7 @@ Computational models for interacting dynamical systems, Computational Epidemiolo
 Scalable algorithms to calibrate large scale network models, Experiment design.
 
 
-### Upcoming Talk
+### Recent Talk
 [SIAM Workshop on Network Science (NS22) 2022:](http://dyn.phys.northwestern.edu/ns22.html) Perturbative methods for estimating relative contributions to network reliability [(abstract)](http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9851.pdf), Sep 13, 2022.
 
 
