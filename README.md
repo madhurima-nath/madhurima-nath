@@ -17,7 +17,7 @@ Scalable algorithms to calibrate large scale network models, Experiment design.
 [YouTube recording](https://www.youtube.com/watch?v=WOJ9B7eVxRU&list=PLvogKQh-bBnWI8ZqlwCKhPp8nCNdGGctN&index=3&t=6150s)
 
 
-[Cirriculum Vitae](https://github.com/mnathvt/mnathvt/blob/main/cv_mnath.pdf)
+[Cirriculum Vitae](https://github.com/madhurima-nath/madhurima-nath/blob/main/cv_mnath.pdf))
 
 
 <a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png"> </a>
