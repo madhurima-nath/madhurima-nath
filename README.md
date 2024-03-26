@@ -1,6 +1,6 @@
 ## Hello!
 
-I work as a senior data scientist in Data & Analytics practice at [Slalom Consulting](https://www.slalom.com). 
+I work as a senior data scientist in Data & Analytics practice at [Slalom, Inc.](https://www.slalom.com)
 I am self-driven and dedicated data & analytics professional with great technical, business and leadership skills. I have 10+ years of advanced analytics experience and specialize in NLP and data engineering. I work on developing and deploying AI/ML solutions on cloud platforms for clients. 
 Prior to Slalom, I worked on developing algorithms to analyze complex interacting systems.
 I graduated with a PhD in computational physics from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
