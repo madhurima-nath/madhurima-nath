@@ -8,9 +8,9 @@
 &nbsp;&nbsp;
 <a href="https://madhurima-nath.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-light.svg" width="32" height="32" style="vertical-align:middle" alt="Portfolio"></picture></a>
 &nbsp;&nbsp;
-<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-light.svg" width="32" height="32" style="vertical-align:middle" alt="CV"></picture></a>
+<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-light.svg" width="26" height="26" style="vertical-align:middle" alt="CV"></picture></a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@m.nath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-light.svg" width="32" height="32" style="vertical-align:middle" alt="Medium"></picture></a>
+<a href="https://medium.com/@m.nath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-light.svg" width="26" height="26" style="vertical-align:middle" alt="Medium"></picture></a>
 
 </div>
 
@@ -34,7 +34,7 @@ Detail: [industry & consulting page](https://madhurima-nath.github.io/project_re
 
 ## 🔬 Research
 
-Moore–Shannon network reliability applied to epidemic spread and food trade contagion; perturbative expansions and Bernstein basis interpolation for diffusive processes on graphs.
+Moore–Shannon network reliability applied to epidemic spread and food trade contagion, using perturbative expansions and Bernstein basis interpolation to approximate the reliability polynomial for large graphs, where exact computation is intractable.
 
 Detail: [research page](https://madhurima-nath.github.io/projects.html)
 
