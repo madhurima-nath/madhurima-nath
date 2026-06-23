@@ -6,11 +6,11 @@
 &nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en"><img src="https://user-images.githubusercontent.com/31106009/176781660-387859e3-1380-4030-8255-8376953d7d6d.svg" height="32" style="vertical-align:middle" alt="Google Scholar"></a>
 &nbsp;&nbsp;
-<a href="https://madhurima-nath.github.io"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github.svg" height="32" style="vertical-align:middle" alt="Portfolio"></a>
+<a href="https://madhurima-nath.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-light.svg" height="32" style="vertical-align:middle" alt="Portfolio"></picture></a>
 &nbsp;&nbsp;
-<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs.svg" height="32" style="vertical-align:middle" alt="CV"></a>
+<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-light.svg" height="32" style="vertical-align:middle" alt="CV"></picture></a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@m.nath"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium.svg" height="32" style="vertical-align:middle" alt="Medium"></a>
+<a href="https://medium.com/@m.nath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-light.svg" height="32" style="vertical-align:middle" alt="Medium"></picture></a>
 
 </div>
 
