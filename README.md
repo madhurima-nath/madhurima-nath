@@ -1,39 +1,47 @@
-## Hello!
+<div align="center">
 
-I work as a senior data scientist in Data & Analytics practice at [Slalom, Inc.](https://www.slalom.com)
-I am self-driven and dedicated data & analytics professional with great technical, business and leadership skills. I have 10+ years of advanced analytics experience and specialize in NLP and data engineering. I work on developing and deploying AI/ML solutions on cloud platforms for clients. 
-Prior to Slalom, I worked on developing algorithms to analyze complex interacting systems.
-I graduated with a PhD in computational physics from Virginia Tech in Dec. 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
+# Madhurima Nath
 
+<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png" height="32" style="vertical-align:middle" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en"><img src="https://user-images.githubusercontent.com/31106009/176781660-387859e3-1380-4030-8255-8376953d7d6d.svg" height="32" style="vertical-align:middle" alt="Google Scholar"></a>
+&nbsp;&nbsp;
+<a href="https://madhurima-nath.github.io"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github.svg" height="32" style="vertical-align:middle" alt="Portfolio"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs.svg" height="32" style="vertical-align:middle" alt="CV"></a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@m.nath"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium.svg" height="32" style="vertical-align:middle" alt="Medium"></a>
 
-###  Interests
-Machine Learning algorithms, Data Engineering and Data Architecture pipelines,
-Computational models for interacting dynamical systems, Computational Epidemiology,
-Scalable algorithms to calibrate large scale network models, Experiment design.
+</div>
 
+## 👋 About
 
-[Cirriculum Vitae](https://github.com/madhurima-nath/madhurima-nath/blob/main/cv_mnath.pdf)
+I work as a senior consultant at [Slalom, Inc.](https://www.slalom.com), in the AI vertical of the Databricks Center of Excellence — a specialist practice group within the firm. I specialise in NLP and data engineering, developing and deploying AI/ML solutions on cloud platforms for clients.
 
+Prior to Slalom, I worked on algorithms to analyse complex interacting systems. I graduated with a PhD in computational physics from Virginia Tech in December 2018, where I worked on [Application of Network Reliability to Analyze Diffusive Processes on Graph Dynamical Systems](https://vtechworks.lib.vt.edu/handle/10919/86841) with [Prof. Stephen Eubank](https://biocomplexity.virginia.edu/person/stephen-eubank).
 
-<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png"> </a>
-<a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en">
-<img src="https://user-images.githubusercontent.com/31106009/176781660-387859e3-1380-4030-8255-8376953d7d6d.svg" width = "35" height = "32"> </a>
+## 🤖 AI, GenAI & ML
 
-<!--
-👋
+Question-answering systems, AI engineering on Databricks, chatbot applications, and text analytics, across financial services, healthcare, energy, and consumer goods. `NLP` `LLM` `Databricks` `Cloud (AWS/Azure/GCP)`
 
-**mnathvt/mnathvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail: [industry & consulting page](https://madhurima-nath.github.io/project_related_files/industry.html)
 
-- Reach me: ✉ [madhurimanath21@gmail.com](mailto:madhurimanath21@gmail.com) 
-Here are some ideas to get you started:
+## 🛠️ Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--- 2 &nbsp spaces: &ensp, 4 &ndsp spaces: &emsp, 
--->
+Data lake and warehouse implementations, predictive maintenance analytics, and large-scale data migrations, across healthcare, telecommunications, and nonprofit clients. `Snowflake` `Databricks` `Data Pipelines` `Cloud (AWS/Azure/GCP)`
+
+Detail: [industry & consulting page](https://madhurima-nath.github.io/project_related_files/industry.html)
+
+## 🔬 Research
+
+Network reliability applied to epidemic spread and food trade contagion; the mathematical framework for diffusive processes on graphs.
+
+Detail: [research page](https://madhurima-nath.github.io/projects.html)
+
+## ✨ Beyond Work
+
+- Physics instructor and TA at Virginia Tech
+- Conference speaker and peer reviewer (NeurIPS, ICML, *Physical Review E*)
+- Hiked 25+ national parks across the US, with plenty of wildlife sightings along the way
+
+Detail: [teaching page](https://madhurima-nath.github.io/teaching.html) · [outreach page](https://madhurima-nath.github.io/outreach.html)
