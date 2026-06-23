@@ -40,7 +40,7 @@ Detail: [research page](https://madhurima-nath.github.io/projects.html)
 
 ## ✨ Beyond Work
 
-- Physics instructor and Graduate Teaching Assistant at Virginia Tech, USA
+- Physics Instructor and Graduate Teaching Assistant at Virginia Tech, USA
 - Conference speaker and peer reviewer (NeurIPS, ICML, *Physical Review E*)
 - Hiked 25+ national parks across the US, with plenty of wildlife sightings along the way
 
