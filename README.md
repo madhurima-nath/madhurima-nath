@@ -2,7 +2,7 @@
 
 # Madhurima Nath
 
-<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png" width="32" height="32" style="vertical-align:middle" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png" height="32" style="vertical-align:middle" alt="LinkedIn"></a>
 &nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googlescholar-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googlescholar-light.svg" width="32" height="32" style="vertical-align:middle" alt="Google Scholar"></picture></a>
 &nbsp;&nbsp;
