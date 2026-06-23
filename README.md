@@ -2,15 +2,15 @@
 
 # Madhurima Nath
 
-<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png" height="32" style="vertical-align:middle" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/madhurimanath/"><img src="https://user-images.githubusercontent.com/31106009/176779884-29c802e1-1575-4866-9c92-eeecdf538c04.png" width="32" height="32" style="vertical-align:middle" alt="LinkedIn"></a>
 &nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en"><img src="https://user-images.githubusercontent.com/31106009/176781660-387859e3-1380-4030-8255-8376953d7d6d.svg" height="32" style="vertical-align:middle" alt="Google Scholar"></a>
+<a href="https://scholar.google.com/citations?user=p_5Pdv0AAAAJ&hl=en"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googlescholar-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googlescholar-light.svg" width="32" height="32" style="vertical-align:middle" alt="Google Scholar"></picture></a>
 &nbsp;&nbsp;
-<a href="https://madhurima-nath.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-light.svg" height="32" style="vertical-align:middle" alt="Portfolio"></picture></a>
+<a href="https://madhurima-nath.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/github-light.svg" width="32" height="32" style="vertical-align:middle" alt="Portfolio"></picture></a>
 &nbsp;&nbsp;
-<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-light.svg" height="32" style="vertical-align:middle" alt="CV"></picture></a>
+<a href="https://github.com/madhurima-nath/madhurima-nath.github.io/blob/main/cv_MNath.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/googledocs-light.svg" width="32" height="32" style="vertical-align:middle" alt="CV"></picture></a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@m.nath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-light.svg" height="32" style="vertical-align:middle" alt="Medium"></picture></a>
+<a href="https://medium.com/@m.nath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-dark.svg"><img src="https://raw.githubusercontent.com/madhurima-nath/madhurima-nath/main/icons/medium-light.svg" width="32" height="32" style="vertical-align:middle" alt="Medium"></picture></a>
 
 </div>
 
